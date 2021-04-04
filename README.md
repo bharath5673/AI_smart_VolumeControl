@@ -42,4 +42,5 @@ python3 vol_cont-LINUX.py
 
 **demo:**
 
-![Alt Text](vid.png)(https://youtu.be/2OeKlbDyhC8)
+
+[![Watch the video](vid.png)](https://youtu.be/2OeKlbDyhC8)
