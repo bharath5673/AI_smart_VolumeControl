@@ -40,6 +40,6 @@ python3 vol_cont-LINUX.py
 
 
 
-**output:**
+**demo:**
 
-[![Watch the video](vid.png)](output.mp4)
+[![](output.gif)]
