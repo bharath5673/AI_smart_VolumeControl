@@ -35,10 +35,10 @@ pycaw ?
 
 ```
 linux: rasp/ubuntu/jetson nano etc..
-pip install opencv-python -u
-pip install mediapipe
+pip3 install opencv-python -u
+pip3 install mediapipe
 sudo apt-get install libasound2-dev
-pip install pyalsaaudio
+pip3 install pyalsaaudio
 
 python3 vol_cont-LINUX.py
 ```
