@@ -6,8 +6,8 @@
 
 **dependencies:**
 
-  python3
-  opencv
+  python3\
+  opencv\
   google's mediapipe Hands
 
 **mediapipe hands ?**
