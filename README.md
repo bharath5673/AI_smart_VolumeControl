@@ -35,7 +35,7 @@ sudo apt-get install libasound2-dev
 pip install pyalsaaudio
 
 python3 vol_cont-LINUX.py
-'''
+```
 
 
 
