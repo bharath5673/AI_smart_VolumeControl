@@ -1,7 +1,7 @@
 # AI_smart_VolumeControl
 
 ### The advantage of artificial intelligence (AI) and machine learning (ML) to control volume of ur TV, computers and many smart devices using a cameras making them smarter . AI, Because it learns through experience, the more it is used, the smarter it becomes. 
-### You can still build a home theatre setup using large speakers and soundbars, or raspberry pis, jetson nanos , your smart TVs, your CARs etc..
+### You can still build a home theatre setup using large speakers and soundbars, or your computers, raspberry pis, jetson nanos , your smart TVs, your CARs etc..
 
 
 
