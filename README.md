@@ -29,7 +29,7 @@ pip install pycaw
 
 python vol_cont-WINDOWS.py
 ```
-**pycaw ?**
+pycaw ?
 
 [Python Core Audio Windows Library, working for both Python2 and Python3](https://github.com/AndreMiras/pycaw)
 
@@ -43,7 +43,7 @@ pip install pyalsaaudio
 python3 vol_cont-LINUX.py
 ```
 
-**alsaaudio ?**
+alsaaudio ?
 
 [Python Core Audio Library,for linux machines working for both Python2 and Python3](https://github.com/larsimmisch/pyalsaaudio)
 
