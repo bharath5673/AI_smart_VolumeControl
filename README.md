@@ -42,4 +42,4 @@ python3 vol_cont-LINUX.py
 
 **demo:**
 
-[![](output.gif)]
+![](output.gif)
