@@ -107,7 +107,7 @@ while True:
 			volPer = np.interp(length, [50,300], [0, 100])
 
 
-			m.setvolume(int(volPer))
+			volume.SetMasterVolumeLevel(vol, None)
 
 
 
