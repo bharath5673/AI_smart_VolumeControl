@@ -39,7 +39,7 @@ class handDet():
 				#print(id,cx,cy)
 				lmList.append([id,cx,cy])
 				if draw:
-					cv2.circle(img,(cx,cy), 15, (255,0,255),cv2.cv2.FILLED)
+					cv2.circle(img,(cx,cy), 5, (255,0,255),cv2.cv2.FILLED)
 		return lmList
 
 
@@ -60,10 +60,11 @@ def main():
 		fps = 1 / (cTime - pTime)
 		pTime = cTime	
 
-		cv2.putText(time, str(intfps), (10,70), cv2.FONT_HERSHEY_PLAIN,3,(255,0,255),3)
+		cv2.putText(img, str(int(fps)), (10,70), cv2.FONT_HERSHEY_PLAIN,3,(255,0,255),3)
 
-		cv2.imshow("Imgae", img)
+		cv2.imshow("Image", img)
 		cv2.waitKey(1)
+
 
 
 if __name__ == "__main__":
